@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "cornertext": "Workshop_#1",
+    "Text": "COMSOL workshop",
+    "Para": "Greetings Everyone! Team MetaMorph of NIT Hamirpur invites you all to join us for an exciting Comsol Workshop! This is a golden chance for all of you to gain knowledge in a hands-on and interactive simulation environment.  Comsol is an innovative tool with cutting-edge technology and user-friendly interface to provide an easy solution to complex engineering problems across multiple fields like electrical, mechanical, fluid dynamics, and much more. So whether you're an engineer or a researcher Comsol empowers you to take your ideas to the next level.So Hurry Up!! And get ready to learn, grow and expand your horizons by joining us! ",
+    "Description": "Succesful Workshop With 150+ Participation.",
+    "brcolor": "blue",
+    "date": "7 Feb  ",
+    "icon": "times",
+
+    "linktext": "Registrations Closed",
+    "photo": "https://cdn.wallpapersafari.com/57/8/w2QjqT.jpg"
+  },
+  {
+    "id": 1,
+    "cornertext": "Workshop_#2",
+    "Text": "GNU Octave 3D modelling & Metaverse workshop ",
+    "Para": "Greetings NITians !    Are you interested in 3D modelling but not sure from where to begin? If yes, then Team MetaMorph is excited to announce an upcoming workshop on 3D modelling using GNU Octave.You will get hands-on experience on how to build complex 3D models from scratch with the help of GNU Octave, a powerful and versatile platform with unlimited possibilities and outcomes.    But wait! That’s not over yet…Dive in to the realm of Metaverse as we introduce you to the highly anticipated technology of the future, allowing you to create and share live 3D experience with others.    We promise to keep it interactive and engaging at every moment with plenty of opportunities to ask questions and get personalized answers. No prior knowledge or experience is required – just bring your enthusiasm and willingness to learn.    So, don’t miss out this chance to explore the world of 3D modelling and Metaverse with us.     ",
+    "Description": "Succesful Workshop With 75+ Participation.",
+    "brcolor": "blue",
+    "date": "15 march   ",
+    "icon": "times",
+
+    "linktext": "Registrations Closed",
+    "photo": "https://cdn.wallpapersafari.com/57/8/w2QjqT.jpg"
+  }
+]

@@ -1,0 +1,39 @@
+import React, { useState, useEffect } from 'react';
+import '../css/MemberDisplay.scss'
+import MemberCard from './MemberCard'
+import { useEmblaCarousel } from 'embla-carousel/react'
+import four from '../dataAll/MemberData4'
+import three from '../dataAll/MemberData3'
+import two from '../dataAll/MemberData3'
+import one from '../dataAll/MemberData1'
+
+function MemberDisplay() {
+
+  const showone= four.map((infor)=> <div className="col-md-4"><MemberCard infor={infor} /></div>)
+
+
+    const [emblaRef, emblaApi] = useEmblaCarousel({ loop: false })
+
+    
+            useEffect(() => {
+    if (emblaApi) {
+      // Embla API is ready
+    }
+  }, [emblaApi]);
+        
+    
+    return (
+        <div className="embla container" ref={emblaRef}>
+          <h1>Final Year Members</h1>
+      <div className="embla__container container">
+       
+        <div className="embla__slide row">{showone}</div>
+        
+        </div>
+      
+      </div>
+    
+    )
+}
+
+export default MemberDisplay

@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "cornertext":"Event_1",
+        "Text":"Fun Craft",
+        "Para":"Team Metamorph aims to showcase that science experiments can be fun and easy as they don't require much expensive equipment or dangerous chemicals. The team plans to utilize everyday household items such as cold drink glasses, pencils, rubber bands, papers, threads, cardboard, eggs, and ice cream sticks to create a range of cool projects that anyone can try. These fun and engaging experiments will not only help people learn about science in a fun and interactive way but will also demonstrate that science can be accessible to everyone. Furthermore, by using everyday items, the team hopes to make these experiments or crafts easy to replicate at home, encouraging students to continue exploring and learning about science beyond the event. Overall, NIMBUS Team Metamorph's approach to utilizing everyday items for science experiments or crafts is an excellent way to promote the idea that science is accessible to everyone and can be fun and engaging.",
+        "Description":"Institutional event ",
+        "brcolor":"blue",
+        "link":"",
+        "icon":"pen",
+        "linktext":"Register Now",
+        "date":"16 April",
+        "photo":"https://vistapointe.net/images/alchemist-3.jpg"
+
+    },
+     
+    {
+        "id":2,
+        "cornertext":"Event_2",
+        "Text":"Crystal Cave",
+        "Para":"In this event, we are excited to introduce a fun and interactive game of building structures with scratch that is designed to teach participants about crystal structures - one of the most fundamental concepts in material science. Participants will have the opportunity to learn about the different types of crystal structures, including their properties, strengths, and weaknesses. They will also learn how to manipulate and arrange the atoms to form stable and strong crystal structures. This will help participants develop critical thinking and problem-solving skills as they work to build complex crystal structures from scratch. The game will also allow participants to collaborate and compete with each other, fostering a sense of teamwork and friendly competition. It will be a great opportunity for students to have fun while learning about the importance of crystal structures in materials science and engineering. ",
+        "Description":"Departmental event ",
+        "brcolor":"#0000cd",
+        "date":"15th April ",
+        "icon":"pen",
+        "linktext":"Register Now",
+       
+        "link":"",
+        "photo":"https://cdn.pixabay.com/photo/2022/02/23/05/52/chemistry-7030101_960_720.jpg"
+
+    }
+]

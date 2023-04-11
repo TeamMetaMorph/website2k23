@@ -1,0 +1,69 @@
+[
+    {
+        "id":1,
+        "cornertext":"Project 1",
+        "Text":"Shape memory alloy driven soft locomotive robot ",  
+        "Para":"Through this project our team will explore the huge potential of using Shape Memory Alloys (SMAs) in design and development of soft Robots. These alloys will undergo solid-to-solid transformation under the influence of external force and will recover to their original shape when heated. Our goal is to create a prototype of a soft robot that rolls forward with the help of SMAs and to further evaluate its speed and potential improvements to the prototype. This project will help in understanding about principles and properties of SMAs which will lead to development of flexible locomotive robots. These can offer a helping hand in rescue operations in confined space and traversing constrictive terrains.",
+        "brcolor":"vertigo",
+        "photo":"https://images.cdn2.stockunlimited.net/preview1300/microchip-on-circuit-board-wallpaper_1807540.jpg"
+    },
+    {
+        "id":2,
+        "cornertext":"Project 2",
+        "Text":"Bandgap Prediction Using Machine Learning",
+        "Para":"Bandgap Prediction Using Machine Learning which helps in selecting proper electric materials. By using crystal features to predict the band gap of a material and for this we are going to use machine learning. To visualize the material we open these files in softwares like Vesta, Material studio and many more. Machine Learning is used to either predict the property of the materials or to classify it. Here, we are using it to predict hte property of the material i.e Band gap and to do so we are going to use supervised learning.",
+
+        "brcolor":"pink",
+        "photo":"https://w0.peakpx.com/wallpaper/510/490/HD-wallpaper-artificial-intelligence-and-the-future-of-cybersecurity.jpg"
+    },
+    {
+        "id":3,
+        "cornertext":"Project 3",
+        "Text":"Building Extra Senses",
+        "Para":"Team MetaMorph is working out on a project to form extra senses through wearable technology. Our Project aims to encode English text into vibrations that can be perceived through skin, hence utilizing brain's ability to extract patterns and assign meanings.This technology will be beneficial for visually and hearing impaired users by using sensory substitution to transmit information. We are exploring ways to make this technology more efficient and lightweight using piezoelectric materials.The potential social benefits of this project include improvement in hearing aids, development of advanced prosthetics and expanded human senses like 360o or infrared vision in the future.",
+      
+        "brcolor":"red",
+        "photo":"https://wallpapercave.com/wp/wp8117187.jpg"
+    },
+    {
+        "id":4,
+        "cornertext":"Project 4",
+        "Text":"Mushroom Based Eco-Friendly Packaging",
+        "Para":"This project aims to explore potential of using Mycelium composite material as an alternative solution to traditional packaging materials like foams and plastics which are taking a toll on environment for decades. Mycelium is a composite material obtained from organic waste and mushroom roots. When mushrooms are grown around biological waste like wooden chips their roots form a network of strong bonds. Mycelium from these roots can create highly strong, durable and lightweight biological products which are chemical free, water and flame resistant, scalable, perfect for shipping, interior designing and cost-competitive.Through this project we will learn to create eco-friendly packaging which is not harmful to environment and can help in saving maritime and terrestrial biodiversity by reducing plastic dependency.",
+        
+        "brcolor":"Purple",
+        "photo": 
+        "https://thumbs.dreamstime.com/b/%D0%BF%D0%B5%D1%87%D0%B0%D1%82%D1%8Cpurple-luminous-toadstool-mushrooms-dark-bump-vector-illustration-purple-background-165281091.jpg"
+    },
+    
+    {
+        
+        "id":5,
+        "cornertext":"Project 5",
+        "Text":"Anti-Gravity Model",
+        "Para":"With the help of Hanging Water Model we will be demonstrating the existence of zero gravity space and to prove how the object resists the forces of gravity by making it appear as if it's not affected by gravity at all. This will help you to know about the concept of Dark Energy and the interaction between electromagnetism and aerodynamic lift. Our ultimate goal is to make anti-gravity technology applicable for moving heavy objects easily during construction making construction a lot simpler task. This project not only has an educational aspect but also has a social benefit.",
+   
+        "brcolor":"blue",
+        "photo":" https://wallpapercave.com/wp/wp9153613.jpg"
+    },
+    
+    {
+        "id":6,
+        "cornertext":"Project 6",
+        "Text":"Eco Friendly Cement (Alccofine)",
+        "Para":"Concrete is one of the most commonly used building materials however its production is leading to sustainability and environmental issues. To address this, research is being performed to develop an alternative to cementing materials that can fully or partially replace cement in concrete. One such Material is Alccofine (ALC) an ultrafine material obtained as by-product from iron ore industry.It's use in concrete has been shown to not only increase the compressive strength , but also improve  flowability and workability of concrete. In short, Alccofine is a promising alternative to conventional concrete, as it can reduce the emission of greenhouse gases while also improving the mechanical and durability properties of concrete. This research project will provide valuable insights into the use of Alccofine in concrete and to understand the benefits of using eco-friendly building materials.",
+        "Description":"Research Based Project",
+        "brcolor":"Purple",
+        "photo":"https://wallpaperaccess.com/full/5344399.png"
+    },
+    {
+        "id":7,
+        "cornertext":"Project 7",
+        "Text":"Glass Reinforced Composite (PET Composite)",
+        "Para":"The project focuses on the manufacturing of composite floor tiles using waste polyethylene terephthalate (PET) bottles and glass fibers. The tiles are produced through melt-mixing method followed by compression molding. This project investigates the effect of filler, fiber, and PET matrix loading on the composite's strength through tensile, compression, and flexural strength tests. This research project provides an effective solution to the problem of environmental pollution by utilizing waste materials, such as packaging, used goods, demolition materials and disposables as resources."
+        ,
+        "Description":"Research Based Project",
+        "brcolor":"#00f5f5",
+        "photo":"https://wallpapercave.com/wp/wp2823483.jpg"
+    }
+]

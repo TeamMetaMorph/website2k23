@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Berkshire+Swash&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather+Sans:wght@500&display=swap');
+
+#ttl{
+    font-family: 'Merriweather Sans', sans-serif;
+    position: relative;
+    padding-top: 14vh;
+
+
+}
+.workCard{
+    // background-color: #1C073E;
+  
+   width: 100vw;
+}
+h1{
+        color:white;
+        text-align: center;
+       
+
+}
+@media screen and (max-width: 400px) {
+.locandina{
+    display: none;
+}
+#heading{
+    font-size: 4vh;
+    
+}
+}
