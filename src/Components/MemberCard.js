@@ -28,7 +28,7 @@ function MemberCard({ infor }) {
         </script>
       </Helmet>
       <div class="card rgb">
-        <div class="card-image" style={{ background: ` linear-gradient(#fff0 0%, #fff0 70%, #1d1d1d 100%),url("${infor.photo} ") ` }} ></div>
+        <div class="card-image" style={{ backgroundSize:"cover", background: ` linear-gradient(#fff0 0%, #fff0 70%, #1d1d1d 100%),url("${infor.photo} ") ` }} ></div>
         <div class="card-text">
           <span class="date"> {infor.about} </span>
           <h2 id="card-title">{infor.name}</h2>
