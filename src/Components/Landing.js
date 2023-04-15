@@ -27,10 +27,10 @@ function Landing() {
 
   return (
     <div className="one">
-      <div class="container-fluid">
-        <div class="row">
+      <div className="container-fluid">
+        <div className="row">
           <div className="col-md-4 Hero">
-            <div class="row">
+            <div className="row">
               <h1 className="col-md-12 text-center  hero1">
                 Team Meta Morph<span id="hero2"> Facilitating.</span>.
               </h1>
